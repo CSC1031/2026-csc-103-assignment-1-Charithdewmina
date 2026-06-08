@@ -1,5 +1,5 @@
 #include <stdio.h>
-//
+//*as20250406*/
 int main() {
     float maths_marks, science_marks, english_marks;
     float total_marks, average;
